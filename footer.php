@@ -1,0 +1,1 @@
+<div class="footerContent">&copy; 20<?php echo date ( 'y') ?> AudioBionics Inc. All Rights Reserved</div>

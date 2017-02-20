@@ -1,0 +1,5 @@
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile /home/content/d/r/d/drdev212/html/.htpasswd 
+AuthGroupFile /dev/null 
+require valid-user
